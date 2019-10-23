@@ -3,37 +3,38 @@
     "products": [
       {
         "name": "Digital Marketing",
-        "shortDescription": "Digital marketing encompasses all marketing efforts that use an electronic device or the internet. All digital channels such as search engines, social media, email, and other websites are avenues to create digital brand and drive revenue growth. We cater services on creating digital brands, managing social media, marketing through social media, using SEO to drive traffic, email marketing, and so on. We also provide consulting on how to change or restructure the physical product/service offering to convert the attention drawn from digital marketing to sales revenue and increased profitability. For all efforts on digital marketing, we help you with both creating strategy and also creating content & processes for executing these strategies.",
+        "serviceDescription": "Digital marketing encompasses all marketing efforts that use an electronic device or the internet. All digital channels such as search engines, social media, email, and other websites are avenues to create digital brand and drive revenue growth. We cater services on creating digital brands, managing social media, marketing through social media, using SEO to drive traffic, email marketing, and so on. We also provide consulting on how to change or restructure the physical product/service offering to convert the attention drawn from digital marketing to sales revenue and increased profitability. For all efforts on digital marketing, we help you with both creating strategy and also creating content & processes for executing these strategies.",
         "carouselDescription": "",
         "carouselImage": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571812773/progressive-labs/DigitalMarketingCarouselImage_haj4cx.jpg",
-        "imageURL": "https://res.cloudinary.com/dctff04k5/image/upload/v1571048530/progressive-labs-assets/DigitalMarketing_jprc5l.jpg"
+        "serviceImageURL": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571813404/progressive-labs/DigitalMarketingServiceImage_ofrikt.jpg"
       },
       {
         "name": "Search Engine Optimization",
-        "shortDescription": "",
-        "carouselDescription": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571812736/progressive-labs/SEOCarouselImage_kh3c5u.jpg",
-        "imageURL": "https://res.cloudinary.com/dctff04k5/image/upload/v1571048537/progressive-labs-assets/Search_Engine_Optimization_mwsbl9.jpg"
+        "serviceDescription": "",
+        "carouselDescription": "",
+        "carouselImage": "https://res.cloudinary.com/dsi1cv9hf/image/upload/q_85/v1571812736/progressive-labs/SEOCarouselImage_kh3c5u.jpg",
+        "serviceImageURL": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571813405/progressive-labs/SEOServiceImage_uanqok.jpg"
       },
       {
         "name": "Websites & Web Application",
-        "shortDescription": "Do you have a functional website for your business? If not, chances are you are going to follow the path of dinosaurs (i.e. by being extinct:). If yes, are you clear about how your website is adding value to your business operation? Do you have the right metrics to measure performance and return on investment? We have the right expertise to help you stand out with an amazing website that delivers great value.",
+        "serviceDescription": "Do you have a functional website for your business? If not, chances are you are going to follow the path of dinosaurs (i.e. by being extinct:). If yes, are you clear about how your website is adding value to your business operation? Do you have the right metrics to measure performance and return on investment? We have the right expertise to help you stand out with an amazing website that delivers great value.",
         "carouselDescription": "",
         "carouselImage": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571812774/progressive-labs/DevelopmentCarouselImage_spquyy.jpg",
-        "imageURl": "https://res.cloudinary.com/dctff04k5/image/upload/v1571048549/progressive-labs-assets/Website_Development_edgkmc.jpg"
+        "serviceImageURL": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571813404/progressive-labs/WebsiteDevelopmentServiceImage_fdatjd.jpg"
       },
       {
         "name": "Data Science and Analytics",
-        "shortDescription": "In the lifetime of our civilization, we humans first identified ourselves as a part of a tribe, then society, then country, then earth, then solar system, then universe, and now potentially of multiverse! Humans’ ability to recognize patterns and understand world has been ever-increasing. And now with technology, it has not only escalated our ability to identify patterns to a different heights but also enabled us to influence and shape some of the patterns. We are awestruck by development of this profound capability to optimize human endeavors and are dedicated to helping any organization willing to benefit from this area of knowledge. Weather you are sitting on a ton of data or are just attempting to create a significant pool of data, we can help you with extensive analytics as well as in identifying what data would really add value to your business. We are really passionate about data and possess vast expertise in helping you become data savvy or data-centric, depending on your  business needs and strategic direction.",
+        "serviceDescription": "In the lifetime of our civilization, we humans first identified ourselves as a part of a tribe, then society, then country, then earth, then solar system, then universe, and now potentially of multiverse! Humans’ ability to recognize patterns and understand world has been ever-increasing. And now with technology, it has not only escalated our ability to identify patterns to a different heights but also enabled us to influence and shape some of the patterns. We are awestruck by development of this profound capability to optimize human endeavors and are dedicated to helping any organization willing to benefit from this area of knowledge. Weather you are sitting on a ton of data or are just attempting to create a significant pool of data, we can help you with extensive analytics as well as in identifying what data would really add value to your business. We are really passionate about data and possess vast expertise in helping you become data savvy or data-centric, depending on your  business needs and strategic direction.",
         "carouselDescription": "",
         "carouselImage": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571812736/progressive-labs/AnalyticsCarouselImage_vnnbru.jpg",
-        "imageURL": "https://res.cloudinary.com/dctff04k5/image/upload/v1571048535/progressive-labs-assets/DataAnalytics_nkc5m5.jpg"
+        "serviceImageURL": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571813404/progressive-labs/DataAnalyticsServiceImage_ncyixj.jpg"
       },
       {
         "name": "Research & Consultation",
-        "shortDescription": "How well do you know your brand, your consumers, their behaviors, your industry, and the markets? Research is really important to building knowledge and understanding issues surrounding your organization. In some cases, research will help you solve a specific problem that you have encountered in your business operation, and in some it will help you further optimize your existing operation. \nWe at progressive will conduct research and experiments to gather better insights about your consumers and your industry to help you make better decisions. The result - increased revenue and profitability!",
+        "serviceDescription": "How well do you know your brand, your consumers, their behaviors, your industry, and the markets? Research is really important to building knowledge and understanding issues surrounding your organization. In some cases, research will help you solve a specific problem that you have encountered in your business operation, and in some it will help you further optimize your existing operation. \nWe at progressive will conduct research and experiments to gather better insights about your consumers and your industry to help you make better decisions. The result - increased revenue and profitability!",
         "carouselDescription": "",
         "carouselImage": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571812735/progressive-labs/ResearchCarouselImage_kuv0y9.jpg",
-        "imageURL": "https://res.cloudinary.com/dctff04k5/image/upload/v1571048531/progressive-labs-assets/Research_yg0vte.jpg"
+        "serviceImageURL": "https://res.cloudinary.com/dsi1cv9hf/image/upload/v1571813405/progressive-labs/ResearchServiceImage_gqwghu.jpg"
       }
     ]
   }
